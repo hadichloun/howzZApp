@@ -5,6 +5,7 @@
         "express": "^4.17.3"
     },
     "devDependencies": {
+        "@types/body-parser": "^1.19.2",
         "@types/express": "^4.17.13",
         "@types/node": "^17.0.21",
         "@typescript-eslint/eslint-plugin": "^5.15.0",
