@@ -2,7 +2,7 @@
     "name": "howzz-app-server",
     "version": "0.1.0",
     "dependencies": {
-        "apollo-server-express": "^3.0.0",
+        "apollo-server-express": "^2.0.0",
         "express": "^4.17.3",
         "graphql": "^15.0.0"
     },
