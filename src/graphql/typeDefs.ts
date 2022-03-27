@@ -2,7 +2,7 @@ import { gql } from "apollo-server-express"
 
 export const typeDefs = gql`
 type Listing {
-    id: String!
+    id: ID!
     title: String!
     image: String!
     address: String!
